@@ -9,7 +9,8 @@ A modern, lightweight GSAP animation starter built for **fast, smooth, and reusa
 ## 🔗 Live Demo
 
 🌐 **Live Preview:** https://nova-gsap.vercel.app  
-_(Replace with your actual deployed link if different)_
+
+<img src="https://raw.githubusercontent.com/sahilcodexx/nova-gsap/refs/heads/main/public/img/nova.webp" > 
 
 ---
 
